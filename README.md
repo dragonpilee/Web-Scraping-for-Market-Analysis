@@ -45,7 +45,5 @@ This project is licensed under the MIT License.
 
 Web scraping must be done responsibly and in compliance with the website's terms of service. Always check the site's `robots.txt` before scraping.
 
-## Author
 
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
 
